@@ -33,3 +33,5 @@
 ### 设计模式
 * 创建型模式
     * [单例模式](creationalPattern/singletonPattern/README.md)
+* 行为型模式
+    * [策略模式](behavioralPattern/strategyPattern/README.md)
