@@ -1,6 +1,6 @@
-#设计模式
+# 设计模式
 
-###设计模式的六大原则
+### 设计模式的六大原则
 
 * 开闭原则（Open Close Principle）
 
@@ -25,6 +25,10 @@
 * 合成复用原则（Composite Reuse Principle）
 
 >原则是尽量使用合成/聚合的方式，而不是使用继承。
+
+### 设计模式关系图
+
+![](image/relationship.jpg)
 
 ### 设计模式
 * 创建型模式
