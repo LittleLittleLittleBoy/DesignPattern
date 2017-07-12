@@ -35,4 +35,4 @@
     * [单例模式](creationalPattern/singletonPattern/README.md)
 * 行为型模式
     * [策略模式](behavioralPattern/strategyPattern/README.md)
-    * [迭代器模式]
+    * [迭代器模式](behavioralPattern/iteratorPattern/README.md)
