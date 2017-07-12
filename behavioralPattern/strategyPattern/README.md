@@ -9,6 +9,7 @@
 * 结构图
 
 ![](image/struct.jpg)
+
 创建一个定义活动的 Strategy 接口和实现了 Strategy 接口的实体策略类。
 
 Context 是一个使用了某种策略的类,策略通过接口得到。
