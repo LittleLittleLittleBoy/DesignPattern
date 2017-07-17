@@ -36,6 +36,7 @@
     * [工厂模式](creationalPattern/factoryPattern/README.md)
     * [抽象工厂模式](creationalPattern/abstractFactoryPattern/README.md)
     * [建造者模式](creationalPattern/builderPattern/README.md)
+    * [原型模式](creationalPattern/prototypePattern/README.md)
 * 行为型模式
     * [策略模式](behavioralPattern/strategyPattern/README.md)
     * [迭代器模式](behavioralPattern/iteratorPattern/README.md)
