@@ -40,3 +40,4 @@
 * 行为型模式
     * [策略模式](behavioralPattern/strategyPattern/README.md)
     * [迭代器模式](behavioralPattern/iteratorPattern/README.md)
+    * [观察者模式](behavioralPattern/observerPattern/README.md)
