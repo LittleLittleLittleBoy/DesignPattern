@@ -49,3 +49,5 @@
     * [状态模式](behavioralPattern/statePattern/README.md)
     * [责任链模式](behavioralPattern/chainOfResponsibilityPattern/README.md)
     * [访问者模式](behavioralPattern/visitorPattern/README.md)
+* 结构型模式
+    * [适配器模式](structuralpattern/adapterPattern/README.md)
