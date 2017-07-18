@@ -51,3 +51,4 @@
     * [访问者模式](behavioralPattern/visitorPattern/README.md)
 * 结构型模式
     * [适配器模式](structuralpattern/adapterPattern/README.md)
+    * [桥接模式](structuralpattern/bridgePattern/README.md)
