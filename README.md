@@ -54,4 +54,4 @@
     * [桥接模式](structuralpattern/bridgePattern/README.md)
     * [装饰模式](structuralpattern/decoratorPattern/README.md)
     * [组合模式](structuralpattern/compositePattern/README.md)
-    * [外观灌输](structuralpattern/facadePattern/README.md)
+    * [外观模式](structuralpattern/facadePattern/README.md)
