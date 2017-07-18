@@ -48,3 +48,4 @@
     * [解释器模式](behavioralPattern/interpreterPattern/README.md)
     * [状态模式](behavioralPattern/statePattern/README.md)
     * [责任链模式](behavioralPattern/chainOfResponsibilityPattern/README.md)
+    * [访问者模式](behavioralPattern/visitorPattern/README.md)
