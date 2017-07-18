@@ -53,3 +53,4 @@
     * [适配器模式](structuralpattern/adapterPattern/README.md)
     * [桥接模式](structuralpattern/bridgePattern/README.md)
     * [装饰模式](structuralpattern/decoratorPattern/README.md)
+    * [组合模式](structuralpattern/compositePattern/README.md)
