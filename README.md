@@ -56,3 +56,4 @@
     * [组合模式](structuralpattern/compositePattern/README.md)
     * [外观模式](structuralpattern/facadePattern/README.md)
     * [享元模式](structuralpattern/flyweightPattern/README.md)
+    * [代理模式](structuralpattern/proxyPattern/README.md)
