@@ -46,3 +46,4 @@
     * [中介者模式](behavioralPattern/mediatorPattern/README.md)
     * [备忘录模式](behavioralPattern/mementoPattern/README.md)
     * [解释器模式](behavioralPattern/interpreterPattern/README.md)
+    * [状态模式](behavioralPattern/statePattern/README.md)
