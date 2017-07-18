@@ -44,4 +44,5 @@
     * [模板模式](behavioralPattern/templatePattern/README.md)
     * [命令模式](behavioralPattern/commandPattern/README.md)
     * [中介者模式](behavioralPattern/mediatorPattern/README.md)
-    * [备忘录模式](behavioralPattern/mementoPattern)
+    * [备忘录模式](behavioralPattern/mementoPattern/README.md)
+    * [解释器模式](behavioralPattern/interpreterPattern/README.md)
