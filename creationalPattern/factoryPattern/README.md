@@ -8,6 +8,8 @@
 
  Shape 接口和实现 Shape 接口的实体类。下一步是定义工厂类 ShapeFactory。
 FactoryPatternDemo，我们的演示类使用 ShapeFactory 来获取 Shape 对象。它将向 ShapeFactory 传递信息（CIRCLE / RECTANGLE / SQUARE），以便获取它所需对象的类型。
+
+对开闭原则很好的支持
 * 优点： 
     1. 一个调用者想创建一个对象，只要知道其名称就可以了。 
     2. 扩展性高，如果想增加一个产品，只要扩展一个工厂类就可以。 
